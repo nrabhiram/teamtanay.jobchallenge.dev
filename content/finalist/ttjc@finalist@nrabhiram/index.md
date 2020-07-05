@@ -1,6 +1,6 @@
 ---
 title: Abhiram Reddy
-type: "finalist"
+type: "participant"
 name: "Abhiram Reddy"
 portfolio: "https://abhiramreddy.netlify.app/"
 github-link: "https://github.com/nrabhiram"
